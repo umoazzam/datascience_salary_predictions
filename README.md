@@ -99,7 +99,7 @@ Bagging techniques, including Bagging Classifier and Random Forest, offer intrig
 
 The exploration of Boosting techniques, notably CatBoostClassifier, stands out for its seamless handling of categorical features. Its performance, achieved with minimal hyperparameter tuning, positions it as an attractive option for scenarios where efficiency and adaptability are crucial. The selection of the optimal model becomes a nuanced decision, dependent on dataset characteristics and the intricate balance between model complexity, interpretability, and performance.
 
-ROC-AUC (After Binning): 0.8447
+- ROC-AUC (After Binning): 0.8447
 
 ### Deep Neural Network (DNN)
 
